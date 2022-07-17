@@ -1,6 +1,26 @@
 {
+  "name": "unsb",
+  "version": "1.0.0",
+  "description": "qq聊天机器人",
+  "main": "index.js",
   "dependencies": {
     "genshin-db": "^4.2.3",
     "oicq": "^2.3.1"
-  }
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenglan28/UnSB.git"
+  },
+  "keywords": [
+    "qqbot",
+    "chat",
+    "unsb"
+  ],
+  "author": "chenglan28",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/chenglan28/UnSB/issues"
+  },
+  "homepage": "https://github.com/chenglan28/UnSB#readme"
 }
