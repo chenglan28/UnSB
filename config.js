@@ -1,10 +1,11 @@
+const user_login_info = require('./config/user.json'); //用户登录信息
 module.exports = {
     "data":{
-        "user":"",
-        "password":"password",
+        "user":user_login_info.username,
+        "password":user_login_info.password,
         "group":[],
         "friend":[],
-        "login":1,
+        "login":1, //登录方式
         "Key":"C2339024080-342991836872-951195675779",
         "talk":{
             "group":[

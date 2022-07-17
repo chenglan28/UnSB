@@ -1,6 +1,6 @@
 {
   "name": "unsb",
-  "version": "1.0.0",
+  "version": "0.4",
   "description": "qq聊天机器人",
   "main": "index.js",
   "dependencies": {
