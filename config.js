@@ -16,7 +16,7 @@ module.exports = {
         "password":user_login_info.password,
         "group":require('./config/group.json'),
         "friend":require('./config/friend.json'),
-        "login":1, //登录方式
+        "login":user_login_info.method, //登录方式
         "Key":"C2339024080-342991836872-951195675779",
         "talk":{
             "group": group_routers,
