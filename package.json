@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "genshin-db": "^4.2.3",
+    "oicq": "^2.3.1"
+  }
+}
