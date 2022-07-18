@@ -14,7 +14,7 @@ client.on("system.login.slider", function (e) {
   process.stdin.once("data", ticket => this.submitSlider(String(ticket).trim()))
 }).login(data.password);//登录*/
 
- 
+
 data = require('./config.js').data;
 const { createClient } = require('oicq');
 const { segment } = require('oicq');
